@@ -1,5 +1,11 @@
 # cproj-create [module]
 
+![GitHub License](https://img.shields.io/github/license/Float314/cproj-create)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Float314/cproj-create/multi-platform.yml)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Float314/cproj-create)
+![GitHub top language](https://img.shields.io/github/languages/top/Float314/cproj-create)
+![GitHub Tag](https://img.shields.io/github/v/tag/Float314/cproj-create)
+
 cproj-create is an individual module that let users to create C/C++ 
 Projects from the terminal Itself! Useful if you don't want to 
 create each individual file painfully.
